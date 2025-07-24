@@ -9,7 +9,7 @@ HTML e CSS: cabeçalho, footer e variáveis CSS
 
 Objetivo das aulas:
 
-Criar a página home de um portifólio contendo a apresentação suas especialidades/habilidades, foto, e links para redes sociais e outra página "sobre mim", apresentando sua história.
+Criar a página home de um portifólio contendo a apresentação suas especialidades/habilidades, foto, e links para redes sociais e outra página "sobre mim".
 
 As aulas tiveram como principal foco:
 
